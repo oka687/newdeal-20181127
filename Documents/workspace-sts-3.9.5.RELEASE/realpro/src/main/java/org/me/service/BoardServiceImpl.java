@@ -16,7 +16,7 @@ public class BoardServiceImpl implements BoardService{
 
 	
 	@Setter(onMethod =@__({@Autowired}))
-	private BoardMapper  mapper;
+	private BoardMapper mapper;
 
 	@Override
 	public void register(BoardVO board) {
