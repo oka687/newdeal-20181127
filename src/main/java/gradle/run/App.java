@@ -1,5 +1,5 @@
 
-package gradle.run;
+package src.main.java.gradle.run;
 
 public class App {
     public String getGreeting() {

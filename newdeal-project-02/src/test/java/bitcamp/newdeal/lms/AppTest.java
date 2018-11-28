@@ -1,5 +1,4 @@
-
-package src.test.java.gradle.run;
+package bitcamp.newdeal.lms;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
