@@ -1,0 +1,19 @@
+
+
+plugins {
+    id 'java'
+    id 'eclipse'
+    id 'application'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'com.google.guava:guava:26.0-jre'
+
+}
+
+// Define the main class for the application
+mainClassName = 'bitcamp.newdeal.lms.App'
